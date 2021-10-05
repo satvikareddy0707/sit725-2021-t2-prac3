@@ -8,6 +8,5 @@ This is a basic application that tries to use a few components from materialize 
 •	npm install - run this command to install dependencies
 •	npm start- After installing, do npm start to run the server 
 
-
 # Copyrights
 Copyright (c) 2021 Satvika Reddy Maddu
